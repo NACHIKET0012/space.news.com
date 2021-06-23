@@ -1,0 +1,29 @@
+.btn-info{
+    color: azure;
+    box-shadow: crimson;
+    width: 5px;
+    height: 10px;
+}
+
+.btn-warning{
+    color: azure;
+    box-shadow: crimson;
+    width: 5px;
+    height: 10px;
+}
+
+.para_tag{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para_tag1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.para_tag2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.last_para{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
